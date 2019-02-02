@@ -1,4 +1,6 @@
-﻿using System;
+//program for simple gui calculator in c#
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
